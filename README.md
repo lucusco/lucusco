@@ -1,30 +1,28 @@
-### Olá!
+### Hello!
 
-Me chamo Luis Claudio e sou desenvolvedor backend de alicações Web.
+My name is Luis Claudio and I'm a <b>Backend Developer</b> focused on building robust, scalable, and well-structured web applications.
 
-Meu objetivo de longo prazo é me tornar um Arquiteto de Software com vasta experiência na construção e desenvolvimento de aplicações web. 
+I currently work mainly with PHP, Java, and Node.js, developing and maintaining backend applications and services. I also have experience with MySQL, PostgreSQL, and MongoDB, along with other technologies and tools that are part of the web development ecosystem.
 
-Neste momento as tecnologias que mais me interessam e que estou estudando são:
-* PHP, linguagem com a qual tenho trabalhado nos últimos dois anos
-* NodeJS
-* PostgreSQL e MongoDB
+My long-term professional goal is to become a Software Architect, deepening my knowledge of software architecture, system design, best practices, and scalable application development.
 
-Meu foco de atuação tem sido o backend, vertente para a qual destino a maior parte de tempo nos estudos. Também estudo frontend, afinal, é gratificante desenvolver o backend de uma aplicação que tenha uma interface bonita e amigável, certo?
+Although my main focus is backend development, I also enjoy exploring frontend technologies. I believe that understanding different parts of an application helps me make better decisions when building systems and gives me a more complete perspective of the product.
 
-Logo abaixo você encontra formas de entrar em contato comigo, sinta-se a vontade e não se acanhe. =)
-
-Por útlimo, mas não menos importante, um grande fã de Naruto e que gosta de maratonar animes e séries.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-</div>
+🚀 <b>Tech Stack</b>
+<ul>
+<li>PHP</li>
+<li>Java</li>
+<li>Node.js</li>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+<li>MongoDB</li>
+<li>Redis</li>
+</ul>
 <hr>
 
+#### Get in touch!
+
+If you'd like to chat about software development, technology, or a project, feel free to reach out!
 <div>
   <a href = "mailto:lu.cusco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luisclaudiombueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
